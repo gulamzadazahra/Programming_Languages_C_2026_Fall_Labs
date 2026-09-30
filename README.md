@@ -32,7 +32,7 @@ Each week consists of one **lecture** (2×45 min) and one **lab** (2×45 min).
 - Write, compile, and run “Hello, World”
 - Simple arithmetic calculator
 - Explore `printf` / `scanf` format specifiers
-
+i ran it
 ---
 
 ## Week 2 – Control Flow & Functions
