@@ -43,7 +43,6 @@ int main(void) {
     return 0;
 }
 
-// Implement functions below
 void swap(int *x, int *y) {
     int temp = *x;
     *x = *y;
